@@ -1,0 +1,5 @@
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\HackNumber\bin\Debug\HackNumber.exe.config
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\HackNumber\bin\Debug\HackNumber.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\HackNumber\bin\Debug\HackNumber.pdb
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\HackNumber\obj\Debug\HackNumber.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\HackNumber\obj\Debug\HackNumber.pdb

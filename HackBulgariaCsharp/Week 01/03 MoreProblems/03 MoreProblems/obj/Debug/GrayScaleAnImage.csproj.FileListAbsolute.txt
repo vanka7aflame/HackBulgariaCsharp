@@ -1,0 +1,6 @@
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\03 MoreProblems\03 MoreProblems\bin\Debug\03 MoreProblems.exe.config
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\03 MoreProblems\03 MoreProblems\bin\Debug\03 MoreProblems.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\03 MoreProblems\03 MoreProblems\bin\Debug\03 MoreProblems.pdb
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\03 MoreProblems\03 MoreProblems\obj\Debug\GrayScaleAnImage.csprojResolveAssemblyReference.cache
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\03 MoreProblems\03 MoreProblems\obj\Debug\03 MoreProblems.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\03 MoreProblems\03 MoreProblems\obj\Debug\03 MoreProblems.pdb

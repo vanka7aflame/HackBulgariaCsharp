@@ -1,0 +1,1 @@
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\02  LanguageConstructs\NumberToListAndListToNumber\IsStringAAnAnagramOfStringB\bin\Debug\IsStringAAnAnagramOfStringB.exe.config

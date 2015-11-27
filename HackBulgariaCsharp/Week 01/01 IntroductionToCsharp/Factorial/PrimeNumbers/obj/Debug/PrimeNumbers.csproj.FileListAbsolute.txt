@@ -1,0 +1,1 @@
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config

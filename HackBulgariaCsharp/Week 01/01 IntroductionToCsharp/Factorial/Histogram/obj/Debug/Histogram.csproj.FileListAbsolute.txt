@@ -1,0 +1,5 @@
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\Histogram\bin\Debug\Histogram.exe.config
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\Histogram\bin\Debug\Histogram.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\Histogram\bin\Debug\Histogram.pdb
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\Histogram\obj\Debug\Histogram.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\Histogram\obj\Debug\Histogram.pdb

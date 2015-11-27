@@ -1,0 +1,5 @@
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\FibonacciNumber\bin\Debug\FibonacciNumber.exe.config
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\FibonacciNumber\bin\Debug\FibonacciNumber.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\FibonacciNumber\bin\Debug\FibonacciNumber.pdb
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\FibonacciNumber\obj\Debug\FibonacciNumber.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\FibonacciNumber\obj\Debug\FibonacciNumber.pdb

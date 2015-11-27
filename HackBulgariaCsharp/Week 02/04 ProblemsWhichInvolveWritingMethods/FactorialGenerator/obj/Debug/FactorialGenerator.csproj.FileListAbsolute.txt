@@ -1,0 +1,6 @@
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 02\04 ProblemsWhichInvolveWritingMethods\FactorialGenerator\bin\Debug\FactorialGenerator.exe.config
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 02\04 ProblemsWhichInvolveWritingMethods\FactorialGenerator\bin\Debug\FactorialGenerator.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 02\04 ProblemsWhichInvolveWritingMethods\FactorialGenerator\bin\Debug\FactorialGenerator.pdb
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 02\04 ProblemsWhichInvolveWritingMethods\FactorialGenerator\obj\Debug\FactorialGenerator.csprojResolveAssemblyReference.cache
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 02\04 ProblemsWhichInvolveWritingMethods\FactorialGenerator\obj\Debug\FactorialGenerator.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 02\04 ProblemsWhichInvolveWritingMethods\FactorialGenerator\obj\Debug\FactorialGenerator.pdb

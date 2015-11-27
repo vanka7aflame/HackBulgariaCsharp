@@ -1,0 +1,5 @@
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\LastPalinDrome\bin\Debug\LastPalinDrome.exe.config
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\LastPalinDrome\bin\Debug\LastPalinDrome.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\LastPalinDrome\bin\Debug\LastPalinDrome.pdb
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\LastPalinDrome\obj\Debug\LastPalinDrome.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\LastPalinDrome\obj\Debug\LastPalinDrome.pdb

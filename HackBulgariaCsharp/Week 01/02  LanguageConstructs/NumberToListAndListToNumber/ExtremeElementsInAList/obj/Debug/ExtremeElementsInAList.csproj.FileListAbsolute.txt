@@ -1,0 +1,5 @@
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\02  LanguageConstructs\NumberToListAndListToNumber\ExtremeElementsInAList\bin\Debug\ExtremeElementsInAList.exe.config
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\02  LanguageConstructs\NumberToListAndListToNumber\ExtremeElementsInAList\bin\Debug\ExtremeElementsInAList.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\02  LanguageConstructs\NumberToListAndListToNumber\ExtremeElementsInAList\bin\Debug\ExtremeElementsInAList.pdb
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\02  LanguageConstructs\NumberToListAndListToNumber\ExtremeElementsInAList\obj\Debug\ExtremeElementsInAList.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\02  LanguageConstructs\NumberToListAndListToNumber\ExtremeElementsInAList\obj\Debug\ExtremeElementsInAList.pdb

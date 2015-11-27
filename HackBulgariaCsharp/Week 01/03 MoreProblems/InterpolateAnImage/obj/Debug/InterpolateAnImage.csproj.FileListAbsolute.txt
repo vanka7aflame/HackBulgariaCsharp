@@ -1,0 +1,5 @@
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\03 MoreProblems\InterpolateAnImage\bin\Debug\InterpolateAnImage.exe.config
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\03 MoreProblems\InterpolateAnImage\bin\Debug\InterpolateAnImage.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\03 MoreProblems\InterpolateAnImage\bin\Debug\InterpolateAnImage.pdb
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\03 MoreProblems\InterpolateAnImage\obj\Debug\InterpolateAnImage.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\03 MoreProblems\InterpolateAnImage\obj\Debug\InterpolateAnImage.pdb

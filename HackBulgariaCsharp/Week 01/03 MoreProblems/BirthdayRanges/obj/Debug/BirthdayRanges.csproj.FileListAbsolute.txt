@@ -1,0 +1,5 @@
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\03 MoreProblems\BirthdayRanges\bin\Debug\BirthdayRanges.exe.config
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\03 MoreProblems\BirthdayRanges\bin\Debug\BirthdayRanges.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\03 MoreProblems\BirthdayRanges\bin\Debug\BirthdayRanges.pdb
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\03 MoreProblems\BirthdayRanges\obj\Debug\BirthdayRanges.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\03 MoreProblems\BirthdayRanges\obj\Debug\BirthdayRanges.pdb

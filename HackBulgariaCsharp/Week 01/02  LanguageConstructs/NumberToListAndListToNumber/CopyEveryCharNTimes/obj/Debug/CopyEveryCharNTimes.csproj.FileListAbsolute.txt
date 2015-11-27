@@ -1,0 +1,5 @@
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\02  LanguageConstructs\NumberToListAndListToNumber\CopyEveryCharNTimes\bin\Debug\CopyEveryCharNTimes.exe.config
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\02  LanguageConstructs\NumberToListAndListToNumber\CopyEveryCharNTimes\bin\Debug\CopyEveryCharNTimes.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\02  LanguageConstructs\NumberToListAndListToNumber\CopyEveryCharNTimes\bin\Debug\CopyEveryCharNTimes.pdb
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\02  LanguageConstructs\NumberToListAndListToNumber\CopyEveryCharNTimes\obj\Debug\CopyEveryCharNTimes.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\02  LanguageConstructs\NumberToListAndListToNumber\CopyEveryCharNTimes\obj\Debug\CopyEveryCharNTimes.pdb

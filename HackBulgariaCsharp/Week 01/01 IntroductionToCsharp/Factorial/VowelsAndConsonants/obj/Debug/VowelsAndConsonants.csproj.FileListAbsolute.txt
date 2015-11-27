@@ -1,0 +1,5 @@
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\VowelsAndConsonants\bin\Debug\VowelsAndConsonants.exe.config
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\VowelsAndConsonants\bin\Debug\VowelsAndConsonants.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\VowelsAndConsonants\bin\Debug\VowelsAndConsonants.pdb
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\VowelsAndConsonants\obj\Debug\VowelsAndConsonants.exe
+C:\vanka7a\VS Projects\HackBulgariaCsharp\Week 01\01 IntroductionToCsharp\Factorial\VowelsAndConsonants\obj\Debug\VowelsAndConsonants.pdb
