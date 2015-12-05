@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 Introduction To OOP", "06 Introduction To OOP\06 Introduction To OOP.csproj", "{2D2E5807-2463-49ED-A5E4-8E743B0733BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pair", "Pair\Pair.csproj", "{104071C8-6F33-4CF2-9176-A96EF927C1EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fractions", "Fractions\Fractions.csproj", "{1E1DB8AE-5D8F-4394-A5DF-F418B8F1CF4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryFigures", "GeometryFigures\GeometryFigures.csproj", "{33EA2D5B-A942-4457-B741-ECFAFF710077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D2E5807-2463-49ED-A5E4-8E743B0733BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2E5807-2463-49ED-A5E4-8E743B0733BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2E5807-2463-49ED-A5E4-8E743B0733BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2E5807-2463-49ED-A5E4-8E743B0733BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{104071C8-6F33-4CF2-9176-A96EF927C1EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104071C8-6F33-4CF2-9176-A96EF927C1EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104071C8-6F33-4CF2-9176-A96EF927C1EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104071C8-6F33-4CF2-9176-A96EF927C1EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E1DB8AE-5D8F-4394-A5DF-F418B8F1CF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1DB8AE-5D8F-4394-A5DF-F418B8F1CF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1DB8AE-5D8F-4394-A5DF-F418B8F1CF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1DB8AE-5D8F-4394-A5DF-F418B8F1CF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33EA2D5B-A942-4457-B741-ECFAFF710077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33EA2D5B-A942-4457-B741-ECFAFF710077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33EA2D5B-A942-4457-B741-ECFAFF710077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33EA2D5B-A942-4457-B741-ECFAFF710077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
