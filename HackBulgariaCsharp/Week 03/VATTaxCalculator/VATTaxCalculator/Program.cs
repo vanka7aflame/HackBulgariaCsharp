@@ -22,7 +22,7 @@ namespace VATTaxCalculator
             ShopInventory newShopInvertory = new ShopInventory(product);
             Console.WriteLine("If all products of that type are sold out, the profil you will gain is = {0}", newShopInvertory.Audit());
 
-            Order firstOrder = new Order(1, 7);
+            Order firstOrder = new Order(1, 3);
             newShopInvertory.RequestOrder(firstOrder);
         }
     }

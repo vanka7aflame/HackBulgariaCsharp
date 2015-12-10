@@ -36,10 +36,10 @@ namespace VATTaxCalculator
             {
                 if (item.Key.ID == order1.ProductID)
                 {
-                    if (item.Key.Quantity == order1.Quantity)
+                    if (item.Key.Quantity >= order1.Quantity)
                     {
                         double amount = 0;
-                        amount = item.Key.PrizeWithTax * item.Key.Quantity;
+                        amount = item.Key.PrizeWithTax * order1.Quantity;
                         Console.WriteLine("the order will cost you {0}", amount);
                     }
                     else
